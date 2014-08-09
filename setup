@@ -1,0 +1,5 @@
+sudo apt-get update
+sudo apt-get install xl2tpd
+sudo cp vpn-connect /usr/sbin
+sudo chmod +x /usr/sbin/vpn-connect
+sudo cp -r xl2tpd /etc/
