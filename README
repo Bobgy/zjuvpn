@@ -1,4 +1,5 @@
 This is a installation script for ZJUVPN in ubuntu.
+Use "chmod +x setup && sudo ./setup" to install.
 Use "sudo vpn-connect -c" to setup your username.
 Use "sudo vpn-connect" to connect to zjuvpn.
 Use "sudo vpn-connect -d" to disconnect.
